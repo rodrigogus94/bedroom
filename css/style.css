@@ -1,0 +1,173 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Quattrocento Sans', sans-serif;*/
+body{
+    font-family: 'Quattrocento Sans', sans-serif;
+   
+}
+
+.navbar-stylo{
+    background-color: rgb(168, 104, 228);
+}
+
+#navbar-bedroom ul li:hover{
+    border-bottom: 3px solid #2377bf;
+}
+
+#navbar-logo{
+    height: 40px;
+    margin-left: 50px;
+}
+h1, h2, h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card{
+    border: none;
+    
+    
+}
+.local{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.sliderPhoto{
+    margin-top: 15px;
+    height: 500px;
+    width: 100%;
+}
+
+#banner{
+    width: 300px;
+    height: 300px;
+    border: 6px solid #eee;
+}
+
+
+
+.masV{
+    margin-top: 10px;
+    margin-left: 101px;
+    margin-right: 10px;
+}
+.catalogo{
+    margin-left: 101px;
+    margin-right: 10px;
+}
+
+#bedroom{
+    margin-top: 20px;
+}
+
+.hospedagem{
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-right: 48px;
+    padding-left: 30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 134px;
+    
+}
+
+#hospedes{
+    margin-left: 273px;
+    width: 24%;
+    margin-top: -30px;
+    margin-right: -135px;
+}
+
+.photo-hospedar{
+    margin-top: 20px;
+    margin-right: 50px;
+    width: 433px;
+    height: 433px;
+    border: 6px solid #ced4da;
+}
+
+.valor-hospedar{
+    
+    margin-top: 20px;
+    margin-left: -10px;
+    
+}
+#data-hospedagem{
+    width: 100%;
+    margin-left: -11px;
+    height: 44px;
+}
+.arrow{
+    margin-top: 15px;
+    margin-left: -18px;
+  
+}
+
+
+#taxa-servico{
+    margin-left: 533px;
+    width: 90px;
+    margin-top: -30px;
+}
+#data{
+    background-color: white;
+    color: black;
+    border: 1px solid #ced4da;
+    margin-top: 10px;
+    width: 100%;
+    height: 44px;
+    margin-block-start: auto;
+    font-size: 18px;
+    margin-left: -11px
+    
+}
+.card-title{
+    margin-top: 15px;
+}
+/*Footer*/
+
+#rodape{
+    background-color: black;
+    padding-top: 30px;
+    margin-right: 0px;
+    overflow: hidden;
+}
+
+
+.icon{
+	font-size: 30px;
+    margin-left: 15px;
+    color:white;
+}
+.footer{
+    color: white;
+}
+
+
+.linkRede{
+	color:white;
+}
+
+.form-group{
+    color: white;
+    margin-right: 22px;
+    margin-bottom: 1px;
+    margin-left: 50px;
+    width: 70%;
+    
+    
+}
+
+.redesSociais{
+    max-width: 48%;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.btn-primary{
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.icon {
+
+}
