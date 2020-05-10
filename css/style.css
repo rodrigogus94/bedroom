@@ -164,8 +164,13 @@ h1, h2, h3{
     text-align: center;
 }
 
-.btn-primary{
+.enviar{
     margin-left: 50px;
     margin-bottom: 15px;
 }
 
+.reservar{
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
